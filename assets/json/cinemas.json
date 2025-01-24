@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Starlight Cinema",
+        "address": "123 Main St",
+        "description": "A popular cinema offering an immersive movie experience with modern facilities."
+    },
+    {
+        "name": "Silver Screen Theatre",
+        "address": "456 Market St",
+        "description": "A well-loved cinema known for its comfortable seating and diverse movie selections."
+    },
+    {
+        "name": "Elmwood Cinematic",
+        "address": "789 Elm St",
+        "description": "A neighborhood favorite, providing an enjoyable movie experience with excellent sound quality."
+    },
+    {
+        "name": "Pineview Picturehouse",
+        "address": "321 Pine St",
+        "description": "A cozy cinema with a great ambiance and a wide variety of screenings."
+    },
+    {
+        "name": "Oak Luxe Cinema",
+        "address": "654 Oak St",
+        "description": "A premium cinema renowned for its luxurious amenities and exceptional service."
+    }
+]

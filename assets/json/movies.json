@@ -1,0 +1,230 @@
+[
+    {
+        "title": "Sonic the Hedgehog 3 (2024)",
+        "image": "assets/images/sonic_3.jpg",
+        "description": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "rating": "G",
+        "genre": "Action, Science Fiction, Comedy, Family",
+        "date": "25/12/2024",
+        "showtimes": [
+            {
+                "day": "Monday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Tuesday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Wednesday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Thursday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Friday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Saturday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Sunday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            }
+        ]
+    },
+    {
+        "title": "Mufasa: The Lion King (2024)",
+        "image": "assets/images/mufasa.jpg",
+        "description": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "rating": "PG",
+        "genre": "Adventure, Family, Animation",
+        "date": "19/12/2024",
+        "showtimes": [
+            {
+                "day": "Monday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Tuesday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Wednesday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Thursday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Friday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Saturday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Sunday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            }
+        ]
+    },
+    {
+        "title": "Moana 2 (2024)",
+        "image": "assets/images/moana_2.jpg",
+        "description": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "rating": "G",
+        "genre": "Adventure, Family, Animation",
+        "date": "04/12/2024",
+        "showtimes": [
+            {
+                "day": "Monday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Tuesday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Wednesday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Thursday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Friday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Saturday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Sunday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            }
+        ]
+    },
+    {
+        "title": "Deadpool & Wolverine (2024)",
+        "image": "assets/images/deadpool_3.jpg",
+        "description": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "rating": "15",
+        "genre": "Action, Comedy, Science Fiction",
+        "date": "24/07/2024",
+        "showtimes": [
+            {
+                "day": "Monday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Tuesday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Wednesday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Thursday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Friday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Saturday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Sunday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            }
+        ]
+    },
+    {
+        "title": "Inside Out 2 (2024)",
+        "image": "assets/images/inside_out_2.jpg",
+        "description": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+        "rating": "G",
+        "genre": "Adventure, Family, Animation",
+        "date": "12/06/2024",
+        "showtimes": [
+            {
+                "day": "Monday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Tuesday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Wednesday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Thursday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Friday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Saturday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Sunday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            }
+        ]
+    },
+    {
+        "title": "Flow (2024)",
+        "image": "assets/images/flow.jpg",
+        "description": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "rating": "G",
+        "genre": "Animation, Fantasy, Adventure",
+        "date": "06/02/2025",
+        "showtimes": [
+            {
+                "day": "Monday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Tuesday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Wednesday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Thursday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Friday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Saturday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            },
+            {
+                "day": "Sunday",
+                "times": ["12:00 PM", "3:00 PM", "6:00 PM", "9:00 PM"]
+            }
+        ]
+    }
+]
