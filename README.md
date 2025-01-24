@@ -1,1 +1,3 @@
-# flutter-theatre-app
+# theatre_app
+
+A new Flutter project.
